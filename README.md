@@ -1,12 +1,12 @@
 
  
- 
+ Ruby On Rails 5 On Windows 10.
 
 Requirements:
 
 For a decent Ruby Stack and web development environment on Windows 10 at least we need the follow things:
 
-  1- Rubyinterpreter (the programing language).
+  1- Ruby interpreter (the programing language).
 
   2- Ruby on Rails (the framework).
 
@@ -14,13 +14,13 @@ For a decent Ruby Stack and web development environment on Windows 10 at least w
 
 For web development in general:
 
-  1- Bower (a package manager).
+  1- NodeJs/npm  (you should read info about both, if you don't know).
 
   2- Grunt (Javascript task runner).
 
   3- Gulp  (Build system automating tasks).
 
-  4- NodeJs/npm  (you should read info about both, if you don't know).
+  4- Bower (a package manager).
 
 Tools:
 
