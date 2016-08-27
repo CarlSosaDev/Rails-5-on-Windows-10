@@ -36,11 +36,11 @@ Tools:
 
     Download Bitnami RubyStack 
 
-          Bitnami RubyStack has much of the tools that we need to install Ruby on Rails on      windows, bring it with Git, Mysql, Postgresql, Sqlite, Ruby, Rails, RVM, and others.
+          Bitnami RubyStack has much of the tools that we need to install Ruby on Rails on      windows, it come with Git, Mysql, Postgresql, Sqlite, Ruby, Rails, RVM, and others.
 
            Go to https://bitnami.com/stack/ruby, and download the latest version of the     installer.
 
- Once installed it in your computer we need to add the path of Ruby interpreter to the system variables, for  that do the follow:
+ Once installed it in your computer we need to add the path of Ruby interpreter to the system variables, do the following:
 
  1- right click in Windows menu,then choose "System".
 
@@ -72,13 +72,13 @@ Tools:
 
  if you see a message like this: ruby 2.2.4p230 (2015-12-16 revision 53155).... 
 
- everything was ok, but don't worry if it's not the same, it must be different.
+ everything was ok, but don't worry if it's not the same, it mightt be different.
 
- This steps above were for get Ruby interpreter available for wherever you can use a Command Prompt. Now,  it's time for get Rails. First, I need to tell you that Rails is installed because Bitname installer do so, but it's a  earlier version than Rails5, so we want to install Rails 5, for do that, we need to type the follow in Command  Prompt:
+ This steps above were for get Ruby interpreter available for wherever you can use a Command Prompt. Now,  it's time for get Rails. First, I need to tell you that Rails is installed because Bitnami installer did so, but it's an  earlier version than Rails 5, so we want to install Rails 5, for do that, we need to type the following in Command  Prompt:
 
  gem install rails 
 
- and that's it. This process must take a while, be patient. 
+ and that's it. This process might take a while, be patient. 
 
  Then test rails with the follows commands:
 
